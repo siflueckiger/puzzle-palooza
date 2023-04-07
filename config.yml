@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: de-CH
-title: PP
+title: pq
 author: ['Simon Flückiger', 'Daniel Schmocker']
 
 theme: "PaperMod"
