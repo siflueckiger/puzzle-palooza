@@ -1,4 +1,4 @@
-baseURL: "puzzle-palooza.netlify.app"
+baseURL: "/"
 languageCode: de-CH
 title: PP
 author: ['Simon Flückiger', 'Daniel Schmocker']
