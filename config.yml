@@ -1,0 +1,27 @@
+baseURL: ""
+languageCode: de-CH
+title: Puzzle Palooza
+author: ['Simon Flückiger', 'Daniel Schmocker']
+
+theme: "PaperMod"
+
+params:
+  defaultTheme:
+    auto
+  mainSections:
+    - dokumentation
+
+  homeInfoParams:
+      Title:
+        Puzzle Palooza
+      Content: 
+        Erfahre mehr über Puzzle Palooza, das Modulare und anpassbare Programmierprojekt
+        für Schulklassen. Nachfolgend findest Du Beiträge, welche unsere Idee wie auch
+        das Spiel und die Umsetzung erläutern.
+  socialIcons:
+        - name: email
+          url: "mailto:si.flueckiger@gmail.com;daniel.b.schmocker@gmail.com"
+  
+  ShowShareButtons: true
+  ShareButtons: ['twitter', 'linkedin', 'facebook', 'whatsapp']
+  ShowPostNavLinks: true
