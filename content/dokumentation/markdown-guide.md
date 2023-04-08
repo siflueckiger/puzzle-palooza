@@ -1,7 +1,7 @@
 ---
 title: "Markdown Syntax Guide "
-weight: 99 # tiefe Zahlen kommen zu oberst hohe Zahlen kommen zu unterst
-draft: false # wenn true, wird der Beitrag nicht publiziert
+weight: 99 
+draft: true 
 ShowReadingTime: true
 showToc: true
 tocOpen: true
