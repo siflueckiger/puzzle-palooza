@@ -31,7 +31,3 @@ params:
     buttons:
       - name: Dokumentation
         url: /dokumentation
-      - name: Bilder
-        url: /bilder
-      - name: Über uns
-        url: /uber-uns
