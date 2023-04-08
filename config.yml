@@ -1,33 +1,37 @@
-baseURL: "/"
+---
+baseURL: /
 languageCode: de-CH
 title: puzzle palooza
-author: ['Simon Flückiger', 'Daniel Schmocker']
-theme: "PaperMod"
-
+author:
+  - Simon Flückiger
+  - Daniel Schmocker
+theme: PaperMod
 menu:
-    main:
-        - name: Dokumentation
-          url: dokumentation/
-          weight: 5
-        - name: Bilder
-          url: bilder/
-          weight: 10
-        - name: Über uns
-          url: uber-uns/
-          weight: 15
-
-
+  main:
+    - name: Dokumentation
+      url: dokumentation/
+      weight: 5
+    - name: Bilder
+      url: bilder/
+      weight: 10
+    - name: Über uns
+      url: uber-uns/
+      weight: 15
 params:
   defaultTheme: auto
   disableThemeToggle: false
   ShowPostNavLinks: true
-
-  homeInfoParams:
-      Title: Puzzle Palooza
-      Content: 
-        Erfahre mehr über Puzzle Palooza, das Modulare und anpassbare Programmierprojekt
-        für Schulklassen. Nachfolgend findest Du Beiträge, welche unsere Idee wie auch
-        das Spiel und die Umsetzung erläutern.
-  socialIcons:
-        - name: email
-          url: "mailto:si.flueckiger@gmail.com;daniel.b.schmocker@gmail.com"
+  profileMode:
+    enabled: true
+    title: Puzzle Palooza
+    subtitle: This is subtitle
+    imageUrl: "/images/daniel_simon.png"
+    imageWidth: 250
+    imageHeight: 250
+    buttons:
+      - name: Dokumentation
+        url: /dokumentation
+      - name: Bilder
+        url: /bilder
+      - name: Über uns
+        url: /uber-uns
