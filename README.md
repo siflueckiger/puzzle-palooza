@@ -69,4 +69,4 @@ git push
 Netlify aktualisiert die Webseite automatisch. So ca. 1-2 Minuten nach dem push sollten die Änderungen auf [puzzle-palooza.netlify.app](https://puzzle-palooza.netlify.app/) ersichtlich sein.
 
 ## Noch zu machen
-- Eine Seite für Bilder vom TG53-1 erstellen.
+- Eine Seite für Bilder vom TG53-1 erstellen und publizieren.
