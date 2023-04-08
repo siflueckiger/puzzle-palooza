@@ -1,6 +1,6 @@
 ---
 title: "Test1"
-weight: 1
+weight: 3
 draft: false
 ShowReadingTime: true
 showToc: false
