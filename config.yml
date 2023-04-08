@@ -1,6 +1,6 @@
-baseURL: ""
+baseURL: "/"
 languageCode: de-CH
-title: Puzzle Palooza
+title: pq
 author: ['Simon Flückiger', 'Daniel Schmocker']
 
 theme: "PaperMod"
@@ -8,8 +8,7 @@ theme: "PaperMod"
 params:
   defaultTheme:
     auto
-  mainSections:
-    - dokumentation
+
 
   homeInfoParams:
       Title:
