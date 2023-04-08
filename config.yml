@@ -1,18 +1,29 @@
 baseURL: "/"
 languageCode: de-CH
-title: pq
+title: puzzle palooza
 author: ['Simon Flückiger', 'Daniel Schmocker']
-
 theme: "PaperMod"
 
-params:
-  defaultTheme:
-    auto
+menu:
+    main:
+        - name: Dokumentation
+          url: dokumentation/
+          weight: 5
+        - name: Bilder
+          url: bilder/
+          weight: 10
+        - name: Über uns
+          url: uber-uns/
+          weight: 15
 
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowPostNavLinks: true
 
   homeInfoParams:
-      Title:
-        Puzzle Palooza
+      Title: Puzzle Palooza
       Content: 
         Erfahre mehr über Puzzle Palooza, das Modulare und anpassbare Programmierprojekt
         für Schulklassen. Nachfolgend findest Du Beiträge, welche unsere Idee wie auch
@@ -20,5 +31,3 @@ params:
   socialIcons:
         - name: email
           url: "mailto:si.flueckiger@gmail.com;daniel.b.schmocker@gmail.com"
-  
-  ShowPostNavLinks: true
