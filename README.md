@@ -25,6 +25,8 @@ Mit folgendem Befehl kann ein neuer Beitrag erstellt werden, in welchen automati
 
 `hugo new dokumentation/<name>.md`
 
+Der Neue Beitrag wird mit diesem Befehl im Ordner `Dokumentation` hinzugefügt.
+
 ### Frontmatter
 Folgende Felder können im Frontmatter angepasst werden.
 
