@@ -1,9 +1,9 @@
 ---
 title: "Das Spiel"
-weight: 1
+weight: 2
 draft: false
 ShowReadingTime: true
-showToc: true
+showToc: false
 tocOpen: false
 ---
 

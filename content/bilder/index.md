@@ -6,7 +6,7 @@ ShowReadingTime: false
 showToc: false
 tocOpen: false
 ---
-
+![TG53-1](TG53-1.jpeg)
 ![Bild 1](/images/Filterblase.png)
 ![Bild 2](/images/Glaubenspresistenz.png)
 ![Bild 3](/images/GoogleEffect.png)
