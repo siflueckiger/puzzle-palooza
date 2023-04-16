@@ -5,6 +5,7 @@ draft: false
 ShowReadingTime: true
 showToc: false
 tocOpen: false
+version: 1.2
 ---
 
 ## Die Spielmechanik kurz erklärt
