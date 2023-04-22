@@ -1,0 +1,4 @@
+\beamer@subsectionintoc {0}{1}{Die Spielmechanik kurz erklärt}{1}{0}{0}
+\beamer@subsectionintoc {0}{2}{Kollaboratives Making}{1}{0}{0}
+\beamer@subsectionintoc {0}{3}{Warum wir das tun?}{1}{0}{0}
+\beamer@subsectionintoc {0}{4}{Warum wir das tun?}{1}{0}{0}
