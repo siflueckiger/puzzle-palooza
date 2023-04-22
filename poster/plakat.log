@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.13)  22 APR 2023 23:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.13)  22 APR 2023 23:19
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1406,9 +1406,9 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
 Package markdown Info: Buffering markdown input into the temporary input file "
 plakat.markdown.in" and scanning for the closing token sequence "\end{markdown}
 " on input line 25.
-Package markdown Info: The ending token sequence was found on input line 29.
+Package markdown Info: The ending token sequence was found on input line 30.
 Package markdown Info: Including markdown document "./plakat.markdown.in" on in
-put line 29.
+put line 30.
 \g_tmpa_iow=\write9
 \openout9 = `plakat.markdown.lua'.
 
@@ -1421,15 +1421,34 @@ Package luabridge Info: Executing a helper Lua script from file
 (luabridge)             \markdownOptionHelperScriptFileName 
 
 (|texlua ./plakat.markdown.lua)
-(./_markdown_plakat/281ad2fe5ff62d2f362a65ffb656e0d9.md.tex)
+(./_markdown_plakat/36b10131889fd11460eee4652b352169.md.tex
+
+LaTeX Warning: File `../bilder/TG53-1.jpg' not found on input line 5.
+
+
+! Package pdftex.def Error: File `../bilder/TG53-1.jpg' not found: using draft 
+setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 .../bilder/TG53-1.jpg}{../bilder/TG53-1.jpg}{}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 8.01318pt on input line 5.
+)
 \openout5 = `plakat.markdown.in'.
 
 Package markdown Info: Buffering markdown input into the temporary input file "
 plakat.markdown.in" and scanning for the closing token sequence "\end{markdown}
-" on input line 32.
-Package markdown Info: The ending token sequence was found on input line 35.
+" on input line 33.
+Package markdown Info: The ending token sequence was found on input line 36.
 Package markdown Info: Including markdown document "./plakat.markdown.in" on in
-put line 35.
+put line 36.
 \openout9 = `plakat.markdown.lua'.
 
 
@@ -1440,17 +1459,16 @@ Package luabridge Info: Writing a helper Lua script to file
 Package luabridge Info: Executing a helper Lua script from file
 (luabridge)             \markdownOptionHelperScriptFileName 
 
-
-(|texlua ./plakat.markdown.lua)
+ (|texlua ./plakat.markdown.lua)
 (./_markdown_plakat/673047f3c0e67e1f20c2259ab2e9f2f0.md.tex)
 \openout5 = `plakat.markdown.in'.
 
 Package markdown Info: Buffering markdown input into the temporary input file "
 plakat.markdown.in" and scanning for the closing token sequence "\end{markdown}
-" on input line 40.
-Package markdown Info: The ending token sequence was found on input line 43.
+" on input line 41.
+Package markdown Info: The ending token sequence was found on input line 44.
 Package markdown Info: Including markdown document "./plakat.markdown.in" on in
-put line 43.
+put line 44.
 \openout9 = `plakat.markdown.lua'.
 
 
@@ -1468,10 +1486,10 @@ Package luabridge Info: Executing a helper Lua script from file
 
 Package markdown Info: Buffering markdown input into the temporary input file "
 plakat.markdown.in" and scanning for the closing token sequence "\end{markdown}
-" on input line 48.
-Package markdown Info: The ending token sequence was found on input line 51.
+" on input line 49.
+Package markdown Info: The ending token sequence was found on input line 52.
 Package markdown Info: Including markdown document "./plakat.markdown.in" on in
-put line 51.
+put line 52.
 \openout9 = `plakat.markdown.lua'.
 
 
@@ -1486,12 +1504,12 @@ Package luabridge Info: Executing a helper Lua script from file
 (|texlua ./plakat.markdown.lua)
 (./_markdown_plakat/34a0e0d5754cfe0717317283f27e62a8.md.tex)
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 4.0pt on input line 55.
+(Font)              scaled to size 4.0pt on input line 56.
 
 ! Argument of \footimage has an extra }.
 <inserted text> 
                 \par 
-l.55 \end{document}
+l.56 \end{document}
                    
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -1504,7 +1522,7 @@ Runaway argument?
 ! Paragraph ended before \footimage was complete.
 <to be read again> 
                    \par 
-l.55 \end{document}
+l.56 \end{document}
                    
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -1532,22 +1550,23 @@ Package rerunfilecheck Info: File `plakat.out' has not changed.
 (rerunfilecheck)             Checksum: 4036078D55FE7BA728C86D4F310D10E9;656.
  ) 
 Here is how much of TeX's memory you used:
- 31708 strings out of 476025
- 655276 string characters out of 5790017
- 1869388 words of memory out of 5000000
- 51462 multiletter control sequences out of 15000+600000
- 582156 words of font info for 56 fonts, out of 8000000 for 9000
+ 31757 strings out of 476025
+ 656313 string characters out of 5790017
+ 1870388 words of memory out of 5000000
+ 51495 multiletter control sequences out of 15000+600000
+ 582464 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,122p,964b,1426s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/inconsolata/Inconsolat
-a-zi4b.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/Lin
-BiolinumT.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/
-LinBiolinumTB.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libert
-ine/LinLibertineTB.pfb>
-Output written on plakat.pdf (1 page, 197743 bytes).
+a-zi4b.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/inconsolata/I
+nconsolata-zi4r.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libe
+rtine/LinBiolinumT.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/l
+ibertine/LinBiolinumTB.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
+ic/libertine/LinLibertineTB.pfb>
+Output written on plakat.pdf (1 page, 209134 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
  75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
