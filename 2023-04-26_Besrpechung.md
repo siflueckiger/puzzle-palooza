@@ -42,6 +42,8 @@
 - Wann können wir aufbauen (Ni)
 - Flügus alte Macbook Air für Patternpuzzle
 - Ni nimmt am Freitag Material aus Atelier nach Hause
+- Umfrage-/Feedbackbogen erstellen?*
+- Geschichte TG53-2 
 
 
 ## Notizen
