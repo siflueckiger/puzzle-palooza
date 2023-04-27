@@ -8,5 +8,8 @@ tocOpen: false
 version: 1.0
 ---
 
-## Warum wir das tun?
-Wir entwickeln Maker-Projekte, die als Basis dienen, um mit einer Gruppe in die Welt des Makings einzusteigen. Der Start in diesem Bereich kann oft sehr steinig sein und die Lernkurve sehr steil. Deshalb ist eine gute Begleitung und oft auch eine enge Betreuung notwendig, was mit einem hohen Personalaufwand verbunden sein kann. Unsere Projekte haben immer einen kollaborativen Charakter, sodass Schülerinnen und Schüler gemeinsam an einem Projekt arbeiten.
+## Der Einstieg in die Welt des Makings
+Wir entwickeln Maker-Projekte, die als Basis dienen, um mit einer Gruppe Lernenden in die Welt des Makings zu starten. Die ersten Schritte in diesem Bereich sind oft sehr steinig und die Lernkurve  steil. Deshalb ist eine gute Begleitung und eine enge Betreuung unabdingbar. Dieser Einstieg ist mit einem hohen Personalaufwand verbunden und deshalb für die Lehrkräfte eine hohe Hürde. 
+Deshalb entwickeln wir Maker-Projekte die möglichst niederschwellig angeboten werden können und den Einstieg erleichtern.
+
+Wir präsentieren hier unser erstes kollaborative und eventorientierte Prototyp-Projekt. Für den Prototypen haben wir uns bei einem Computer-Spiel inspirieren lassen. "Keep-talking-and-nobody-explodes" ist ein 
