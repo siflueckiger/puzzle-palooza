@@ -20,10 +20,11 @@ Unser Projekt stellt ein Spiel dar, für das wir hier unseren ersten Prototypen 
 Die 
 
 ### Aufgabenvielfalt
-Der Prozess, ein "Spiel gegen die Uhr" von grundauf zu entwickeln, bietet eine enorme vielfalt an Aufgaben, die von den Lerneneden gelöste werden können. Wir bieten für alle Aufgaben vorgefertigte Lösungen an, damit aus der vielfalt der Aufgaben, diejenigen herausgepickt werden können, die an den Vorkenntinissen und dem zeitleichen Rahmen in denen das Projekt statt findet, angepasst werden können. 
+Der Prozess, ein "Spiel gegen die Uhr" von grundauf zu entwickeln, bietet eine enorme vielfalt an Aufgaben, die von den Lerneneden gelöste werden können. Wir bieten für alle Aufgaben vorgefertigte Lösungen an, damit aus der vielfalt der Aufgaben, diejenigen herausgepickt werden können, die an den Vorkenntnissen und dem zeitleichen Rahmen in denen das Projekt statt findet, angepasst werden können. 
 
 Modular
-Niederschwellig 
+### Niederschwellig 
+Für die Module wurden mehrheitlich Microbits verwendet. Das sind Einplatinen-Microcontroller die leicht mit einer Visuelle-Programmiersprache "Blocks" oder in JavaScript oder Python programmiert werden können. Damit sollen die Hürden für Programmier-Neulinge möglichst tief gehalten werden.
 
 
 

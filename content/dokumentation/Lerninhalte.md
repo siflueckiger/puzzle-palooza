@@ -8,6 +8,11 @@ tocOpen: false
 
 ---
 
+## Was könnten die Teilnehmer mitnehmen
+
+*Folgende Lerninhalte könnten vermittelt werden:*
+
+
 ## Geschichte rund um die verückte Maschine
 
 
