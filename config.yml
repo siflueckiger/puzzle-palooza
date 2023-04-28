@@ -24,8 +24,8 @@ params:
   profileMode:
     enabled: true
     title: Puzzle Palooza
-    subtitle: This is subtitle
-    imageUrl: "/images/daniel_simon.png"
+    subtitle: Ein modulares Making-Projekt für Schulklassen in Form eines Escape-Spiels.
+    imageUrl: "/images/logo_puzzle-palooza.png"
     imageWidth: 250
     imageHeight: 250
     buttons:

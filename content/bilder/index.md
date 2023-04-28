@@ -3,14 +3,20 @@ title: "Bilder des TG53-1"
 weight: 1
 draft: false
 ShowReadingTime: false
-showToc: false
-tocOpen: false
+showToc: true
+tocOpen: true
 ---
+### Detailbilder vom Prototypen TG53-1
 ![TG53-1](TG53-1.jpeg)
-![Bild 1](/images/Filterblase.png)
-![Bild 2](/images/Glaubenspresistenz.png)
-![Bild 3](/images/GoogleEffect.png)
-![Bild 4](/images/Kontrollverlust.png)
-![Bild 5](/images/McLuhan_MediumIsTheMessage.png)
-![Bild 6](/images/Technikgetriebenheit.png)
-![Bild 7](/images/Use_and_gratification.png)
+
+### TG53-1 an der Nacht der 1000 Fragen in Biel
+
+Hier sind einige Beispielbilder, wie der TG53-1 während der *Nacht der 1000 Fragen* am 22. Okrober 2022 in Biel inszeniert wurde. Dies wird im Rahmen des Projekts mit den Schülerinnen und Schülern umgesetzt und ist ebenfalls ein wichtiger Teil des Projekts.
+
+![Nacht der 1000 Fragen: Inszenierung](/images/Nacht1000_TG53-1_009.jpeg)
+![Nacht der 1000 Fragen: Eingang zum Traum](/images/Nacht1000_TG53-1_004.jpeg)
+![Nacht der 1000 Fragen: Kontrollzentrum des TG53-1](/images/Nacht1000_TG53-1_005.jpeg)
+![Nacht der 1000 Fragen: Kontrollzentrum des TG53-1](/images/Nacht1000_TG53-1_007.jpeg)
+![Nacht der 1000 Fragen: Livestream aus dem Traum](/images/Nacht1000_TG53-1_008.jpeg)
+![Nacht der 1000 Fragen: Telefon zur Kommunikation](/images/Nacht1000_TG53-1_002.jpeg)
+![Nacht der 1000 Fragen: Arbeitstisch](/images/Nacht1000_TG53-1_003.jpeg)
