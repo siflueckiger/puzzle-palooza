@@ -1,5 +1,6 @@
 ---
-title: "Das Spiel (gegen die Uhr)"
+title: "Die Spielidee"
+summary: Ein Kooperatives Spiel, bei dem ein Spieler ein Rätsel löst, während andere Spieler Anweisungen aus einem Handbuch geben, um ihm dabei zu helfen, ohne das Rätsel selbst zu sehen.
 weight: 2
 draft: false
 ShowReadingTime: true
@@ -9,7 +10,15 @@ version: 1.2
 subtitle: Die Spielmechanik kurz erklärt 
 ---
 
-## Die Spielmechanik kurz erklärt oder Spiel gegen die Uhr
 
-Jeweils zwei Spieler müssen innerhalb einer vorgegebenen Zeit verschiedene Aufgaben zu lösen. Eine Person bedient dabei eine Maschine die verrückt spielt, in unserem Fall den Traumgenerator "TG53-2". Die andere Person besitzt eine schriftliche Anleitung, um die, ausser Kontrolle geratene Maschine, wieder in den Griff zu bekommen. Sie muss die erste Person dazu anleiten, die richtigen Knöpfe zu drücken. Die beiden Personen dürfen nur verbal kommunizieren. Die erste Person sieht nur die Maschine, die zweite Person, nur die Anleitung. Das Spiel ist inspiriert vom Computerspiel "Keep Talking and Nobody Explodes".
-![TG53-1](../bilder/TG53-1.jpg)
+### Kommunikation und Kooperation: Wie ein Spiel Teamwork fördert
+
+*Puzzle Palooza* ist ein kooperatives Spiel, bei dem es darum geht, digitale Rätsel zu lösen, bevor die Zeit abgelaufen ist. Doch anders als bei den meisten Spielen, die man allein oder gegeneinander spielt, ist Zusammenarbeit der Schlüssel zum Erfolg.
+
+Das Spielprinzip ist einfach: Ein Spieler befindet sich vor einer einem Rätsel, das gelöst werden muss, während die anderen Spieler außerhalb des Spiels sitzen und ein Handbuch mit Anweisungen haben, um zu helfen. Das Problem dabei ist, dass der Spieler, der die Rätsel löst, das Handbuch nicht sehen kann. Daher ist es wichtig, dass alle miteinander sprechen und kommunizieren, um die Anweisungen richtig zu interpretieren und die richtigen Schritte auszuführen.
+
+Die Rätsel bestehen aus verschiedenen Modulen, die gelöst werden müssen. Einige davon erfordern das Lösen von Rätseln, das Entschlüsseln von Codes oder das Überwinden von Hindernissen, bevor sie deaktiviert werden können. 
+
+*Puzzle Palooza* ist ein Spiel, das nicht nur Spaß macht, sondern auch das Zusammenarbeiten und Kommunizieren fördert. Es ist ein perfektes Spiel um Teamwork und strategisches Denken zu üben.
+
+*Puzzle Palooza* basiert auf der Idee des Computerspiels *Keep Talking & Nobody Explodes*.
