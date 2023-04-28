@@ -11,7 +11,7 @@
 - [ ] Französisch, Translator von hugo?? (Flügu)*
 - [ ] Texte überarbeiten und Flügu bescheid sagen welche überarbeitet sind, damit er diese auch überarbeiten kann (Ni)
 - [ ] Flügu Texte überarbeiten
-  - [ ] Das Projekt
+  - [x] Das Projekt
   - [ ] Das Spiel
   - [ ] Fokus Deutsch
   - [ ] Fokus MINT
