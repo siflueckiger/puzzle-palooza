@@ -12,8 +12,8 @@
 - [ ] Texte überarbeiten und Flügu bescheid sagen welche überarbeitet sind, damit er diese auch überarbeiten kann (Ni)
 - [ ] Flügu Texte überarbeiten
   - [x] Das Projekt
-  - [ ] Das Spiel
-  - [ ] Fokus Deutsch
+  - [x] Das Spiel
+  - [x] Fokus Deutsch
   - [ ] Fokus MINT
   - [ ] Projektaufgaben Liste ergänzen
   - [ ] Lerninhalte Liste ergänzen
