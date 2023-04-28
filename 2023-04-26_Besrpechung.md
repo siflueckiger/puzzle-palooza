@@ -6,7 +6,7 @@
 - [ ] Bilder (TG53 inkl. Zeugs hintendran, Biel) (Ni + Flügu)
   - [x] Nacht der 1000 Fragen
   - [ ] Detailbilder
-- [ ] Über uns (Flügu)
+- [x] Über uns (Flügu)
 	- aus Eingabe auf google drive
 - [ ] Französisch, Translator von hugo?? (Flügu)*
 - [ ] Texte überarbeiten und Flügu bescheid sagen welche überarbeitet sind, damit er diese auch überarbeiten kann (Ni)

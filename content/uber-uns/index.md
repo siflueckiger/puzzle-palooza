@@ -9,14 +9,18 @@ tocOpen: false
 
 ![Bild von Daniel und Simon](/images/daniel_simon.png)
 
-Wer wir sind....
+Wir sind...
 
-Daniel ist blaablaa
+...**Daniel Schmocker**, Molekularbiologe mit langjähriger Erfahrung im Arbeit mit Kindern und Jugendlichen der als Lehrperson arbeitet.
 
-Simon ist blablaa
+...**Simon Flückiger**, Sozial- und Medienpädagoge in Ausbildung der in der Offenen Kinder und Jugendarbeiter arbeitet.
 
-zusammen sind sie blabkla
 
-und wir wollen blabla
+Angefangen mit der Produktion von Musikvideos und später durch eigene diverse Maker-Projekte für Kunstinstallationen haben wir uns, ganz nach der Philosophie des *Learning by doing* oder eben *Learning by making*, eine Menge Wissen über die digitale Welt autodidaktisch und intrinsisch motiviert angeeignet.
 
-tschöööö...
+
+> "Wir machen gerne Dinge, die wir nicht können."
+> 
+> — *Daniel und Simon, seit 2017*
+
+Während unseres Schaffens haben wir erfahren, wie viel Potenzial im projekt- und eventorientierten Lernen steckt. Daraus ist die Idee entstanden, für Kinder und Jugendliche durch kooperative Maker-Projekte das Lernen erlebbar zu machen. Als Folge davon haben wir unser Prototyp-Projekt **Puzzle Palooza** entwickelt, das wir hier vorstellen möchten.

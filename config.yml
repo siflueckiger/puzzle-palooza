@@ -31,3 +31,5 @@ params:
     buttons:
       - name: Dokumentation
         url: /dokumentation
+      - name: Bilder
+        url: /bilder
