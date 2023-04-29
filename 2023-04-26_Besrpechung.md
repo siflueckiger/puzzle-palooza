@@ -8,14 +8,14 @@
   - [ ] Detailbilder
 - [x] Über uns (Flügu)
 	- aus Eingabe auf google drive
-- [ ] Französisch, Translator von hugo?? (Flügu)*
+- [ ] Französisch, Translator von hugo?? (Flügu)* -> ***keine Zeit***
 - [ ] Texte überarbeiten und Flügu bescheid sagen welche überarbeitet sind, damit er diese auch überarbeiten kann (Ni)
 - [ ] Flügu Texte überarbeiten
   - [x] Das Projekt
   - [x] Das Spiel
   - [x] Fokus Deutsch
   - [ ] Fokus MINT
-  - [ ] Projektaufgaben Liste ergänzen
+  - [x] Projektaufgaben Liste ergänzen
   - [ ] Lerninhalte Liste ergänzen
 
 
@@ -28,8 +28,8 @@
 
 
 ## Puzzles
-- [ ] Patternpuzzle (Flügu)
-	- [ ] mit Pfeil nach oben mit und ohne Strich oder Pfeil nach Rechts mit und ohne Strich, nicht Spalte 1 Zeile 4
+- [x] Patternpuzzle (Flügu)
+	- [ ] noch auf Microbit laden und testen
 	- [ ] Zeit herausfinden
 	- [ ] Anleitungen D und F -> Ni checkt Franz
 
