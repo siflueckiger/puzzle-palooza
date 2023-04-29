@@ -1,0 +1,30 @@
+also ich habe folgendes gemachte:
+
+- Startseite mit Logo versehen und einen kurzen Catchy Satz ergänzt
+- die über uns seite angepasst. kannst du da noch schauen ob das was ich bei dir geschrieben habe stimmt und das für dich so gut ist
+- Ich habe bei den Dokumentationsdateien noch den Tag summary im Frontmatter ergänzt. Diesen Zeigt es dann jeweils bei der Auflistung an.
+- Ich habe folgende Texte überarbeitet
+	- Das Projekt -> ev umbenennen in „Die Projektidee“
+	- Das Spiel -> umbenannt in Die Spielidee (habe hier ziemlich viel geändert. hoffe das ist ok für dich. sonst einfach sagen und dann lugen wir =)
+	- Fokus Deutsch
+- Fokus Mint habe ich nicht überarbeitet.
+	- Da verstehe ich nicht genau was du meinst. Du schreibst von einem Beispiel das folgt aber ich finde es folgt kein Beispiel. Wolltest du eine Auflistung von Punkten machen die zu erledigen sind wenn alles selbst gemacht wird? 
+	- beim dritten Punkt hört der Satz nach während auf
+	- ich finde es schwierig den Bezug zu den Fächern zu machen (Bsp. Umgebungsgestaltung, Eventorganisation, Dokmentation). vielleich müsstest du die einzelnen Punkte den Fächern zuodnen
+    	- Mathematik
+        	- 3D Modelle für die Moduloberflächen planen und zeichnen
+        	- ??
+      	- Informatik
+        	- Programmieren der Module mit Blockprogrammiersprache, Python oder JavaScript
+        	- 2..
+      	- Natur
+        	- 1..
+        	- 2..
+      	- Technik
+        	- 3D-Drucken der Modulabdeckungen
+        	- Lasercutten der Modulabdeckungen
+        	- Der Komplette Innenausbau der Box/Koffer planen und bauen
+- Ich habe eine neue Variante der Projektaufgaben gemacht. diese ist auch auf der webseite online.
+  - ich habe das Wort Modul so verwendet, dass dies die Module sind, welche eine Schulklasse machen kann oder nicht (also Geschichte, Rätsel etc.)
+  - die Rätsel heissen nun Rätsel =)
+- Die Liste Lerninhalte habe ich NICHT angeschaut
