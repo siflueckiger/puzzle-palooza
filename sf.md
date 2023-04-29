@@ -1,4 +1,4 @@
-also ich habe folgendes gemachte:
+29.04.2023, also ich habe folgendes gemachte:
 
 - Startseite mit Logo versehen und einen kurzen Catchy Satz ergänzt
 - die über uns seite angepasst. kannst du da noch schauen ob das was ich bei dir geschrieben habe stimmt und das für dich so gut ist
