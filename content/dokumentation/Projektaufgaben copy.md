@@ -36,25 +36,26 @@ Einige Möglichkeiten dafür sind:
 - Text layouten und drucken
 - Comic
 - Internetseite
+- u.a.
 
 ### Rätsel entwerfen
 Wenn neue Rätsel erstellt werden sollen muss als erstes eine Rätsellogik in Gruppen erarbeitet werden. Hierzu können bereits erstellte Rätsel helfen sich einen ersten Eindruck zu machen, wie so ein Rätsel aussehen kann.
-Jedes Modul hat einen Output (z.B Leuchte, Display, Ton etc.), dieser Output dient als Input für die Anleitung. Der Output der Anleitung wäre in der Folge die Lösung für das Modul, welche als Input über Schalter oder Sensoren dem Modul übergeben wird.
+Jedes Modul hat einen Output (z.B Leuchte, Display, Ton etc.), dieser Output dient als Input für die Anleitung. Der Output der Anleitung wiederum, stellt die Lösung für das Modul dar, welche als Input über Schalter oder Sensoren dem Modul übergeben wird.
 
 #### Rätsellogik entwickeln und programmieren
-Hat eine Gruppe eine Rätsellogik entworfen wird diese in einem Gespräch mit den Experten geprüft. Kann die Rätsellogik technisch (Schalter, Potentiometer, Sensoren, LEDs, Displays, Anzeigen etc.) gebaut werden? Kann die Rätsellogik programmiert (Blocks, JavaScript, Python) werden?
-Kann diese umgesetzt werden, muss ein Modul-Prototyp(Steckplatinen) entwickelt werden geht es darum, dass der Code geschrieben wird und das Rätsel programmiert wird.
+Hat eine Gruppe eine Rätsellogik entworfen wird diese in einem Gespräch mit den Experten geprüft. Kann die Rätsellogik technisch (Schalter, Potentiometer, Sensoren, LEDs, Displays, Anzeigen etc.) gebaut werden? Kann die Rätsellogik programmiert werden (Blocks, JavaScript, Python)?
+Sind diese Voraussetzungen gegeben, kann mit dem Bau eines Prototye-modules begonnen werden. Die Elektronik wird zusammengesteckt und mit Code getestet.
 
 
 #### Rätseloberflächen
-Die neuen Rätsel brauchen neue Rätseloberflächen. Hier bieten sich unterschiedliche Methoden an. 
+Die neuen Rätsel brauchen neue Rätseloberflächen. Hier bieten sich unterschiedliche Methoden an, um einfache Oberflächen zu gestalten.
 
 **3D-Druck**: 3D Modelle können mit Tinkercad oder ähnlichen Programmen entworfen und gedruckt werden. Eher eine anspruchsvolle Variante, welche viel Zeit für das Drucken der Objekte benötigt.
 
 **Lasercutting**: Die Abdeckungen werden mit einem Vektorbearbeitungsprogramm oder einem 2D-CAD gezeichnet und mit dem Laercutter geschnitten. Dies ist die einfachere Variante, welche schneller geht als 3D-Druck.
 
 ### Die Elektronik wird fix verbaut
-
+Sobald die Rätseloberflächen fertig gebaut sind, kann die Elektronik fix darin verbaut werden.
 
 
 #### Anleitung schreiben
@@ -79,16 +80,12 @@ Die Rätsel müssen zusammen in irgendeine Oberfläche eingebaut werden. Dies ka
 Eine Variante wäre, dass ein Koffer vorgegeben wird und lediglich noch der Innenausbau (z.Bsp. ein Holzgerüst für das Montieren der Rätsel) gebaut werden muss.
 
 ### Umgebungsgestaltung
-Für die Präsentation soll der Raum dem Thema entsprechend gestaltet werden. Für die Besuchenden soll eine ganzheitliche Erfahrung entstehen. Dafür 
+Für die Präsentation soll der Raum dem Thema entsprechend gestaltet werden. Für die Besuchenden soll eine ganzheitliche Erfahrung entstehen. Dazu gehören Kulissen, Licht, Sound etc.
 
 > Beispielbilder von der [Nacht der 1000 Fragen in Biel](/bilder/#tg53-1-an-der-nacht-der-1000-fragen-in-biel)
 
 ### Eventorganisation
-Die organisation kann von den Kindern übernommen werden. Hierzu gehören Aufgaben wie:
-
-- festlegen wer eingeladen wird
-- Werbung ertstellen und machen
-- Programm/Ablauf des Events festlegen und umsetzen
+Um das Spiel einem Publikum vorstellen zu können, muss ein Event organisiert werden. Der ist möglichst auf die Bedürfnisse der Lernenden zugeschnitten. Dafür wird ein Event eigens für diese Projekt organisiert, die Gruppe nimmt an einem Schulinternen Anlass teil (z.B. Schulschlussfest) oder an einem Externen Event (z.B. Kultureller Anlass in der Gemeinde)
 
 ### Dokumentation
 Die Dokumentation des Projektes wird von den Schülerinnen und Schülern in einer geeigneten Form gemacht. 
