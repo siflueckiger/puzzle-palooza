@@ -50,7 +50,7 @@ Kommunikation
 Konfliktlösung
 Teamarbeit
 (Zeit)-Planung 
-Budgeeinhaltung
+Budgeteinhaltung
 etc
 
 Eine Geschichte muss rund um die Maschine erfunden werden, die zusammen mit einem Countdown funktioniert. Diese Geschichte muss in irgendeiner Form dem Publikum kommuniziert werden, sei es durch ein Video, einen Text, eine Internetseite, eine Zeichnung oder eine Theateraufführung. Es müssen Rätsellogiken entworfen werden, die auf jedes Modul der Maschine abgestimmt sind und den Output in Form von Lichtern oder Anzeigen oder Ähnlichem generieren. Die Anleitung muss diese Outputs übergeben und generiert ihrerseits einen Input, um das Modul zu lösen. Diese Logiken müssen für jedes Modul entworfen und entwickelt werden.

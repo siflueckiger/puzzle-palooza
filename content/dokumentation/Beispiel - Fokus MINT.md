@@ -7,7 +7,7 @@ showToc: false
 tocOpen: false
 version: 1.0
 ---
-## Aufgabenauswahl für ein Projekt mit Fokus MINT (Mathematik, Informatik, Natur und Technik)
+## Aufgabenauswahl für ein Projekt mit Fokus MINT (Mathematik, Informatik, Naturwissenschaften und Technik)
 
 Im Folgenden ist ein Beispiel aufgeführt, wie Projektaufgaben ausgewählt werden könnten, um das Projekt mit Fokus auf die MINT Fächer durchzuführen:
 

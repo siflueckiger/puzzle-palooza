@@ -7,8 +7,5 @@ showToc: false
 tocOpen: false
 ---
 
-## Zielgruppe
-Lernende ab der 5. Klasse. Vorkenntnisse im Making (Programmieren, Elektronik etc.) sind keine nötig. Möhlichst Inklusiv.
-
-## Projektrahmen
-Projektwoche, Projekt tag, Ferien,
+## Zielgruppe & Projektrahmen
+"Puzzle Palooza" richtet sich an Lernende ab der 5. Klasse. Vorkenntnisse im Making (Programmieren, Elektronik etc.) sind nicht nötig. Denkbare Projektrahmen könnte eine Projektwoche oder auch ein intensivere

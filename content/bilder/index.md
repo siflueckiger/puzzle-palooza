@@ -7,7 +7,18 @@ showToc: true
 tocOpen: true
 ---
 ### Detailbilder vom Prototypen TG53-1
-![TG53-1](TG53-1.jpeg)
+![TG53-1](/static/images/TG53-100000.jpg)
+![TG53-1](/static/images/TG53-100001.jpg)
+![TG53-1](/static/images/TG53-100002.jpg)
+![TG53-1](/static/images/TG53-100003.jpg)
+![TG53-1](/static/images/TG53-100004.jpg)
+![TG53-1](/static/images/TG53-100005.jpg)
+![TG53-1](/static/images/TG53-100006.jpg)
+![TG53-1](/static/images/TG53-100007.jpg)
+![TG53-1](/static/images/TG53-100008.jpg)
+![TG53-1](/static/images/TG53-100009.jpg)
+![TG53-1](/static/images/TG53-100010.jpg)
+![TG53-1](/static/images/TG53-100011.jpg)
 
 ### TG53-1 an der Nacht der 1000 Fragen in Biel
 
