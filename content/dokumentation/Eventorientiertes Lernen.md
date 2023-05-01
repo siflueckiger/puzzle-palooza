@@ -1,7 +1,7 @@
 ---
 title: "Eventorientiertes Lernen"
 weight: 21
-draft: false
+draft: true
 ShowReadingTime: true
 showToc: false
 tocOpen: false
