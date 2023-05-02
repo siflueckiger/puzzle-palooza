@@ -6,6 +6,7 @@ ShowReadingTime: true
 showToc: false
 tocOpen: false
 version: 1.0
+lang: de
 ---
 ## Aufgabenauswahl für ein Projekt mit Fokus MINT (Mathematik, Informatik, Naturwissenschaften und Technik)
 

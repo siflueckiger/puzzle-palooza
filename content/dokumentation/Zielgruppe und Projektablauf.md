@@ -5,6 +5,7 @@ draft: false
 ShowReadingTime: true
 showToc: false
 tocOpen: false
+lang: de
 ---
 
 ## Zielgruppe & Projektrahmen

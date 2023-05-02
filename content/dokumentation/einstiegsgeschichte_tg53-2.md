@@ -1,12 +1,14 @@
 ---
 title: "Einstiegsgeschichte TG53-2"
 summary: Dies ist die Einstiegsgeschichte für den TG53-2, welche den Spielenden vor Beginn des Spiels vermittelt wird.
+subtitle: Beispiel
 weight: 5
 draft: false
 ShowReadingTime: true
 showToc: false
 tocOpen: false
 version: 1.0
+lang: de
 ---
 
 ### Videolog vom 22. Oktober 2022

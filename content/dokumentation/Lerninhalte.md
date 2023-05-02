@@ -1,11 +1,11 @@
 ---
 title: "Lerninhalte"
 weight: 15
-draft: false
+draft: true
 ShowReadingTime: true
 showToc: false
 tocOpen: false
-
+lang: de
 ---
 
 ## Was könnten die Teilnehmer mitnehmen

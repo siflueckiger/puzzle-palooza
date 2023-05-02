@@ -1,12 +1,14 @@
 ---
 title: "Fokus Deutsch"
 summary: Ein Beispiel wie das Projekt mit dem Fokus Deutsch eingesetzt werden könnte.
+subtitle: Beispiel
 weight: 5
 draft: false
 ShowReadingTime: true
 showToc: false
 tocOpen: false
 version: 1.0
+lang: de
 ---
 
 ### Einstieg ins Making mit Fokus Deutsch
@@ -27,5 +29,6 @@ Die Geschichte, in die das Projekt eingebettet ist, beeinflusst nicht nur die Ei
 - Die Organisation des Events (Erstellung von Werbematerialien, Schreiben von Einladungen usw.)
 
 Diese Aufgaben würden auf Projektgruppen aufgeteilt, die aus 3-5 Lernenden bestehen. Die Zusammenarbeit innerhalb und zwischen den verschiedenen Projektgruppen ist ein wichtiger Bestandteil des kooperativen Makings.
+
 
 Die Rätselbox wird in diesem Beispiel nicht von den Schülerinnen und Schülern erschaffen. Eine bereits vorgefertigte Rohvariante wird bereitgestellt. Die Oberflächen der Module wie auch gewisse Inhalte im Code können der Geschichte angepasst werden. Das Programmieren und Making wird auf einer sehr einfachen Stufe aufgegriffen.
