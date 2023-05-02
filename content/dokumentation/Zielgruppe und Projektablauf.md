@@ -1,7 +1,7 @@
 ---
 title: "Zielgruppe und Projektablauf (Projektrahmen)"
 weight: 16
-draft: false
+draft: true
 ShowReadingTime: true
 showToc: false
 tocOpen: false
