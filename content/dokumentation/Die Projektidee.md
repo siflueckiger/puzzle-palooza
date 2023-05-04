@@ -17,7 +17,8 @@ Wir haben uns aus verschiedenen Gründen für dieses Spiel entschieden:
 ### Kollaboratives Making
 
 Die Lernenden arbeiten an einem gemeinsamen Produkt. Das Spiel entsteht durch eine klare Aufgabenteilung. Die Aufgabenbereiche werden kleinen Teams zugeordnet. Damit ein gemeinsames Produkt entstehen kann, braucht es Zusammenarbeit innerhalb der Projektteams und eine gute Kommunikation und Abstimmung zwischen den Projektteams. Hier können verschiedene Soft-Skills trainiert werden, wie in einer Gruppe Entscheidungen zu treffen, Verantwortung für die eigene Arbeit zu übernehmen, sich über die Auswirkungen der eigenen Arbeit für die anderen Projektteams im Klaren zu sein, Kommunikation, Konfliktlösung usw.
-Aufgabenvielfalt und Modularität
+
+### Aufgabenvielfalt und Modularität
 
 Der Prozess, ein "Spiel gegen die Uhr" von Grund auf zu entwickeln, bietet eine enorme Vielfalt an Aufgaben, die von den Lernenden gelöst werden können. Wir bieten für alle Aufgaben vorgefertigte Lösungen an, damit aus der Vielfalt der Aufgaben diejenigen herausgepickt werden können, die für die Vorkenntnisse und den zeitlichen Rahmen, in dem das Projekt stattfinden soll, realistischerweise zu bewältigen sind.
 
