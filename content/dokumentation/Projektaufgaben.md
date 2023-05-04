@@ -10,6 +10,8 @@ showToc: true
 tocOpen: true
 version: 1.0
 lang: de
+block-headings: true
+mainfont: Font-Regular.otf
 ---
 
 Die Modularität unseres Projektes ist ein wichtiger Faktor, damit Lernende verschiedener Stufen am Projekt teilhaben können. 
@@ -17,7 +19,7 @@ Die Modularität unseres Projektes ist ein wichtiger Faktor, damit Lernende vers
 Nachfolgend eine Auflistung der Teilbereiche, welche als Aufgabe den Lernenden während des Projekt gestellt werden können. Alle Teilbereiche können als vorgefertigte "Bausteine" bei uns bezogen werden, um den Aufgabenkatalog auf die Ziel-Gruppe anzupassen.
 Da alle Projektaufgaben zusammen zu umfangreich sind, um von einer Gruppe Lernenden auf einmal zu lösen, wird
 
-### Einstiegsgeschichte
+#### Einstiegsgeschichte
 Die Einstiegsgeschichte bettet das ganze Spiel in eine Thematik ein und soll einerseits den Schülerinnen und Schüler helfen, sich mit dem Projekt besser zu identifizieren und so ihre Motivation zu steigern. Andererseits ist es für das Spielerlebnis wichtig, damit den Spielenden bekannt ist in welcher Situation sie sich befinden. Die Geschichte müsste klären, was für eine Maschine oder was für ein Gerät die Module darstellen, was passiert, wenn der Count-Down abläuft und warum die Spieler das verhindern sollten.
 
 > Beispiel der Geschichte des TG53-2: [Einstiegsgeschichte TG53-2](/dokumentation/einstiegsgeschichte_tg53-2)
@@ -30,7 +32,7 @@ Die Einstiegsgeschichte bettet das ganze Spiel in eine Thematik ein und soll ein
 - Präsentation der Geschichte"
 -->
 
-### Präsentation der Geschichte
+#### Präsentation der Geschichte
 Damit die Besucher*innen des Events in die Geschichte eintauchen können, müssen sich die Lernenden eine geeignete Form für die Präsentation ihrer Geschichte ausdenken.
 
 > Beispiel der Geschichte des TG53-1: [Video TG53-1 Deutsch](https://youtu.be/glFgcpV4FwU)
@@ -43,7 +45,7 @@ Einige Möglichkeiten dafür sind:
 - Internetseite
 - u.a.
 
-### Rätsel entwerfen -> Wortwahl (Rätsel, Module)
+#### Rätsel entwerfen -> Wortwahl (Rätsel, Module)
 Wenn neue Rätsel erstellt werden sollen, muss als erstes eine Rätsellogik in Gruppen erarbeitet werden. Hierzu können bereits erstellte Rätsel helfen sich einen ersten Eindruck zu machen, wie so ein Rätsel aussehen kann.
 Jedes Modul hat einen Output (z.B Leuchte, Display, Ton etc.), dieser Output dient als Input für die Anleitung. Der Output der Anleitung wiederum, stellt die Lösung für das Modul dar, welche als Input über Schalter oder Sensoren dem Modul übergeben wird.
 
@@ -80,24 +82,24 @@ Beispiele für solche Geschichten könnten folgende sein:
 -->
 
 
-### Koffer/Box
+#### Rohbau
 Die Rätsel müssen zusammen in irgendeine Oberfläche eingebaut werden. Dies kann ein alter Koffer, eine Holzplatte oder was auch immer sein. 
 
 <!-- 
 Eine Variante wäre, dass ein Koffer vorgegeben wird und lediglich noch der Innenausbau (z.Bsp. ein Holzgerüst für das Montieren der Rätsel) gebaut werden muss.-->
 
-### Umgebungsgestaltung
+#### Umgebungsgestaltung
 Für die Präsentation soll der Raum dem Thema entsprechend gestaltet werden. Für die Besuchenden soll eine ganzheitliche Erfahrung entstehen. Dazu gehören Kulissen, Licht, Sound etc.
 
 > Beispielbilder von der [Nacht der 1000 Fragen in Biel](/bilder/#tg53-1-an-der-nacht-der-1000-fragen-in-biel)
 
-### Eventorganisation
+#### Eventorganisation
 Um das Spiel einem Publikum vorstellen zu können, muss ein Event organisiert werden. Dieser wird möglichst auf die Bedürfnisse der Lernenden zugeschnitten:
 * Schulschussfest
 * Kultureller Anlass
 * Dorffest
   
-### Dokumentation
+#### Dokumentation
 Die Dokumentation des Projektes wird von den Schülerinnen und Schülern in einer geeigneten Form gemacht. 
 
 Wie die Dokumentation gemacht wird, kann vorgegeben werden. Hier zwei Ideen wie dies gestaltet werden könnte:

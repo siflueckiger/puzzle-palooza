@@ -13,7 +13,7 @@ lang: de
 
 ### Einstieg ins Making mit Fokus Deutsch
 
-Die Rätsel in *Puzzle Palooza* sind stets in eine Geschichte eingebettet. Die Idee dahinter ist, dass die Schülerinnen und Schüler sich intensiver mit den Rätseln, der Gestaltung und der Szenografie auseinandersetzen und so ein ganzheitliches Erlebnis entsteht.
+Die Rätsel in *Puzzle Palooza* sind stets in eine Einstiegsgeschichte eingebettet. Die Idee dahinter ist, dass die Lernenden sich intensiver mit den Rätseln, der Gestaltung und der Szenografie auseinandersetzen und so ein ganzheitliches Erlebnis entsteht.
 
 > Beim TG53-2 ist dies zum Beispiel ein verrückt gewordener Traumgenerator, welcher nur noch Albträume für die Menschheit produziert und nun in der Traumwelt deaktiviert werden muss.
 > 
