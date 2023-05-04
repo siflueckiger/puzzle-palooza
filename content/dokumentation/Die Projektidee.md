@@ -16,7 +16,13 @@ Wir haben uns aus verschiedenen Gründen für dieses Spiel entschieden:
 
 ### Kollaboratives Making
 
-Die Lernenden arbeiten an einem gemeinsamen Produkt. Das Spiel entsteht durch eine klare Aufgabenteilung. Die Aufgabenbereiche werden kleinen Teams zugeordnet. Damit ein gemeinsames Produkt entstehen kann, braucht es Zusammenarbeit innerhalb der Projektteams und eine gute Kommunikation und Abstimmung zwischen den Projektteams. Hier können verschiedene Soft-Skills trainiert werden, wie in einer Gruppe Entscheidungen zu treffen, Verantwortung für die eigene Arbeit zu übernehmen, sich über die Auswirkungen der eigenen Arbeit für die anderen Projektteams im Klaren zu sein, Kommunikation, Konfliktlösung usw.
+Die Lernenden arbeiten an einem gemeinsamen Produkt. Das Spiel entsteht durch eine klare Aufgabenteilung. Die Aufgabenbereiche werden kleinen Teams zugeordnet. Damit ein gemeinsames Produkt entstehen kann, braucht es Zusammenarbeit innerhalb der Projektteams, sowie eine gute Kommunikation und Abstimmung zwischen den Projektteams. Hier können verschiedene Soft-Skills trainiert werden: 
+- in einer Gruppe Entscheidungen fällen
+- Verantwortung für die eigene Arbeit übernehmen
+- sich über die Auswirkungen der eigenen Arbeit für die anderen Projektteams im Klaren zu sein
+- Kommunikation
+- Konfliktlösung 
+- usw.
 
 ### Aufgabenvielfalt und Modularität
 
@@ -32,4 +38,4 @@ Wir wollen das Projekt möglichst niederschwellig gestalten. Dies erreichen wir 
 
 ## Zielgruppe & Projektrahmen
 
-"Puzzle Palooza" richtet sich an Lernende ab der 5. Klasse. Vorkenntnisse im Making (Programmieren, Elektronik etc.) sind nicht nötig. Denkbare Projektrahmen könnten eine Projektwoche oder auch ein intensiveres
+"Puzzle Palooza" richtet sich an Lernende ab der 5. Klasse. Vorkenntnisse im Making (Programmieren, Elektronik etc.) sind nicht nötig. Denkbare Projektrahmen könnten eine Projektwoche oder auch ein Projekt über ein ganzes Schuljahr.
