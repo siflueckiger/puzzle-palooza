@@ -24,7 +24,7 @@ params:
   profileMode:
     enabled: true
     title: Puzzle Palooza
-    subtitle: Ein modulares Making-Projekt für Schulklassen in Form eines Escape-Spiels.
+    subtitle: Ein modulares Makingprojekt für Schulklassen in Form eines kollaborativen Rätselspiels.
     imageUrl: "/images/logo_puzzle-palooza.png"
     imageWidth: 250
     imageHeight: 250
