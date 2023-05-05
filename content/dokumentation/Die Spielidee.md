@@ -6,7 +6,6 @@ ShowReadingTime: true
 showToc: false
 tocOpen: false
 version: 1.2
-subtitle: Die Spielmechanik kurz erklärt
 lang: de
 ---
 

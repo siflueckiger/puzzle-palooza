@@ -1,6 +1,5 @@
 ---
 title: "Die Projektidee"
-subtitle: "(oder Prototyp oder TG53-2)"
 weight: 3
 draft: false
 ShowReadingTime: true
@@ -8,15 +7,18 @@ showToc: false
 tocOpen: false
 version: 1.3
 lang: de
-mainfont: cuprum.ttf
 ---
 
-Wir präsentieren hier unseren ersten Prototypen, den TG53-2, sowie zwei Module mit demselben Spielprinzip. Die Module sollen in die Spielmechanik einführen und zeigen, wie die Komplexität des Projekts variiert werden kann.
-Wir haben uns aus verschiedenen Gründen für dieses Spiel entschieden:
+Wir präsentieren hier unseren Prototypen, den TG53-2, sowie zwei vereinfachte Module mit demselben Spielprinzip. Die Module sollen in die Spielmechanik einführen und zeigen, wie die Komplexität des Projekts variiert werden kann.
+
+Nachfolgend werden die Gründe erläutert, weshalb wir uns für dieses Spiel entschieden haben:
 
 ### Kollaboratives Making
 
-Die Lernenden arbeiten an einem gemeinsamen Produkt. Das Spiel entsteht durch eine klare Aufgabenteilung. Die Aufgabenbereiche werden kleinen Teams zugeordnet. Damit ein gemeinsames Produkt entstehen kann, braucht es Zusammenarbeit innerhalb der Projektteams, sowie eine gute Kommunikation und Abstimmung zwischen den Projektteams. Hier können verschiedene Soft-Skills trainiert werden: 
+Die Lernenden arbeiten an einem gemeinsamen Produkt. Das Spiel entsteht durch eine klare Aufgabenteilung. Die Aufgabenbereiche werden kleinen Teams zugeordnet. Damit ein gemeinsames Produkt entstehen kann, braucht es Zusammenarbeit innerhalb der Projektteams, sowie eine gute Kommunikation und Abstimmung zwischen den Projektteams.
+
+Hier können verschiedene Soft-Skills trainiert werden: 
+
 - in einer Gruppe Entscheidungen fällen
 - Verantwortung für die eigene Arbeit übernehmen
 - sich über die Auswirkungen der eigenen Arbeit für die anderen Projektteams im Klaren zu sein
@@ -34,8 +36,8 @@ Oberstes Ziel des Projekts ist die Präsentation des Spiels zu einem bestimmten 
 
 ### Niederschwellig
 
-Wir wollen das Projekt möglichst niederschwellig gestalten. Dies erreichen wir mit der oben beschriebenen Modularität und der Möglichkeit, anspruchsvolle Projektaufgaben bereitzustellen. Wir versuchen aber auch in technischer Hinsicht, die Hürden so tief wie möglich zu halten. Für die Module des Prototyps wurden mehrheitlich Micro-bits verwendet. Das sind Einplatinen-Mikrocontroller, die leicht mit einer visuellen Programmiersprache "Blocks" oder in JavaScript oder Python programmiert werden können. Damit soll der Einstieg für Programmier-Neulinge möglichst erleichtert werden.
+Wir wollen das Projekt möglichst niederschwellig gestalten. Dies erreichen wir mit der oben beschriebenen Modularität und der Möglichkeit, anspruchsvolle Projektaufgaben bereitzustellen. Wir versuchen aber auch in technischer Hinsicht, die Hürden so tief wie möglich zu halten. Für die Module des Prototyps wurden mehrheitlich [micro:bit](https://microbit.org/) verwendet. Das sind Einplatinen-Mikrocontroller, die leicht mit einer visuellen Programmiersprache "Blocks" oder in JavaScript oder Python programmiert werden können. Damit soll der Einstieg für Programmier-Neulinge möglichst erleichtert werden.
 
-## Zielgruppe & Projektrahmen
+### Zielgruppe & Projektrahmen
 
-"Puzzle Palooza" richtet sich an Lernende ab der 5. Klasse. Vorkenntnisse im Making (Programmieren, Elektronik etc.) sind nicht nötig. Denkbare Projektrahmen könnten eine Projektwoche oder auch ein Projekt über ein ganzes Schuljahr.
+*Puzzle Palooza* richtet sich an Lernende ab der 5. Klasse. Vorkenntnisse im Making (Programmieren, Elektronik etc.) sind nicht nötig. Der Projektrahmen kann zeitlich und inhaltlich an die Lernenden und der zur Verfügung stehenden Ressourcen angepasst werden.
