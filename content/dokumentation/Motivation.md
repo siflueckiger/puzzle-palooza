@@ -17,11 +17,7 @@ Aus diesen Gründen möchten wir unsere Ressourcen anbieten und entwickeln Maker
 
 Als Abschluss unserer Projekte findet jeweils ein Anlass statt. An diesem werden die umgesetzten Projekte ausgestellt und einem Publikum in geeigneter Form ausgestellt und zugänglich gemacht. Dies hilft, die Motivation der Lernenden zu fördern. Sie erfahren ihre Selbstwirksamkeit, da ihre Arbeit gesehen und wertgeschätzt wird.
 
-<<<<<<< HEAD
-Wir stellen hier unser erstes kollaboratives und eventorientiertes Prototyp-Projekt, *Puzzle Palooza*, vor. Für den Prototypen haben wir uns vom Computerspiel [Keep Talking & Nobody Explodes](https://keeptalkinggame.com/) inspirieren lassen.
-=======
-Wir stellen hier unser erstes kollaboratives und eventorientiertes Prototyp-Projekt, *Puzzle Palooza*, vor. Für den Prototypen haben wir uns vom Computerspiel *Keep Talking & Nobody Explodes* inspirieren lassen.
->>>>>>> fc2edf5 (minor changes)
+Wir stellen hier unser erstes kollaboratives und eventorientiertes Prototypprojekt, *Puzzle Palooza*, vor. Für den Prototypen haben wir uns vom Computerspiel [Keep Talking & Nobody Explodes](https://keeptalkinggame.com/) inspirieren lassen.
 
 ## Folgende Ziele sind uns in dem Projekt wichtig:
 
