@@ -7,11 +7,22 @@ showToc: true
 tocOpen: true
 version: 1.0
 lang: de
+<<<<<<< HEAD
+=======
+block-headings: true
+pdf-engine: lualatex
+mainfont: "DejaVu Sans"
+>>>>>>> fc2edf5 (minor changes)
 ---
 
 Die Modularität unseres Projektes ist ein wichtiger Faktor, damit Lernende verschiedener Stufen am Projekt teilhaben können. 
 
+<<<<<<< HEAD
 Nachfolgend eine Auflistung der Teilbereiche, welche als Aufgabe den Lernenden während des Projekt zugeteilt werden können. Alle Teilbereiche können als vorgefertigte "Bausteine" bei uns bezogen werden, um den Aufgabenkatalog der Zielgruppe anzupassen.
+=======
+Nachfolgend eine Auflistung der Teilbereiche, welche als Aufgabe den Lernenden während des Projekt gestellt werden können. Alle Teilbereiche können als vorgefertigte "Bausteine" bei uns bezogen werden, um den Aufgabenkatalog auf die Ziel-Gruppe anzupassen.
+<!--Da alle Projektaufgaben zusammen zu umfangreich sind, um von einer Gruppe Lernenden auf einmal zu lösen, wird -->
+>>>>>>> fc2edf5 (minor changes)
 
 ---
 
