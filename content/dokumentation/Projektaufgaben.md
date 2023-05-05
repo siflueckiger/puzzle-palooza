@@ -39,7 +39,6 @@ Einige Möglichkeiten dafür sind:
 - Video erstellen (Filmen, Animation, Stop Motion)
 - Comic
 - Internetseite
-- Theater
 - ...
 
 ---
