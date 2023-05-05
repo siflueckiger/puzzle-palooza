@@ -1,6 +1,5 @@
 ---
 title: "Die Spielidee"
-summary: Ein Kooperatives Spiel, bei dem ein Spieler ein Rätsel löst, während andere Spieler Anweisungen aus einem Handbuch geben, um ihm dabei zu helfen, ohne das Rätsel selbst zu sehen.
 weight: 2
 draft: false
 ShowReadingTime: true
@@ -13,12 +12,12 @@ lang: de
 
 ### Kommunikation und Kooperation: Wie ein Spiel Teamwork fördert
 
-*Puzzle Palooza* ist ein kooperatives Spiel, bei dem es darum geht, digitale Rätsel zu lösen, bevor die Zeit abläuft. Doch anders als bei den meisten Spielen, die man allein oder gegeneinander spielt, ist bei diesem Spiel die **Zusammenarbeit** der Schlüssel zum Erfolg.
+*Puzzle Palooza* ist ein kooperatives Spiel für mindestens zwei Personen, bei dem es darum geht, digitale Rätsel zu lösen, bevor die Zeit abläuft. Doch anders als bei den meisten Spielen, die man allein oder gegeneinander spielt, ist bei diesem Spiel sind **Kommunikation und Kollaboration** die Schlüssel zum Erfolg.
 
-Das Spielprinzip ist einfach: Ein Spieler befindet sich vor einem Rätsel, das gelöst werden muss, während die anderen Spieler außerhalb des Spiels sitzen und ein Handbuch mit Anweisungen haben, um zu helfen. Das Problem dabei ist, dass der Spieler, der die Rätsel löst, das Handbuch nicht sehen kann und die Spieler, die das Handbuch haben, die Rätsel nicht sehen können. Daher ist es wichtig, dass alle miteinander sprechen und kommunizieren, um die Anweisungen richtig zu interpretieren und die richtigen Schritte auszuführen.
+Das Spielprinzip ist einfach: Eine Person befindet sich vor einem Rätsel, das gelöst werden muss, während die andere Persone ausserhalb des Spiels sitzt und ein Handbuch mit Anweisungen hat, um zu helfen. Das Problem dabei ist, dass die Person, die das Rätsel löst, das Handbuch nicht sehen kann und die Person, die das Handbuch hat, die Rätsel nicht sehen kann. Daher ist es wichtig, dass alle gut miteinander kommunizieren, um die Anweisungen richtig zu interpretieren und die nötigen Schritte auszuführen.
 
-Die Rätsel bestehen aus verschiedenen Modulen, die gelöst werden müssen. Einige davon erfordern das Lösen von Rätseln, das Entschlüsseln von Codes oder das Überwinden von Hindernissen, bevor sie deaktiviert werden können.
+Das Spiel umfasst mehrere Rätsel und jedes Spiel hat eine begrenzte Anzahl von Leben. Einige Rätsel ziehen ein Leben ab, wenn ein Fehler gemacht wird, während andere Rätsel von vorne begonnen werden müssen. Alle Rätsel müssen innerhalb der vorgegebenen Zeit gelöst werden.
 
-*Puzzle Palooza* ist ein Spiel, das nicht nur Spass macht, sondern auch das Zusammenarbeiten und Kommunizieren fördert. Es ist ein perfektes Spiel, um **Teamwork** und **strategisches Denken** zu üben.
+*Puzzle Palooza* ist ein Spiel, das nicht nur Spass macht, sondern auch das Zusammenarbeiten und Kommunizieren fördert. Es ist ein perfektes Spiel, um **Teamwork**, **strategisches Denken** und **klare Kommunikation** zu üben.
 
 *Puzzle Palooza* basiert auf der Idee des Computerspiels [Keep Talking & Nobody Explodes](https://keeptalkinggame.com/).
