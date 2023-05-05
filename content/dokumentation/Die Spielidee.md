@@ -9,7 +9,7 @@ version: 1.2
 lang: de
 ---
 
-### Kommunikation und Kooperation: Wie ein Spiel Teamwork fördert
+## Kommunikation und Kooperation: Wie ein Spiel Teamwork fördert
 
 *Puzzle Palooza* ist ein kooperatives Spiel für mindestens zwei Personen, bei dem es darum geht, digitale Rätsel zu lösen, bevor die Zeit abläuft. Doch anders als bei den meisten Spielen, die man allein oder gegeneinander spielt, ist bei diesem Spiel sind **Kommunikation und Kollaboration** die Schlüssel zum Erfolg.
 

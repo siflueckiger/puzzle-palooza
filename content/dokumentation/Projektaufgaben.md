@@ -7,7 +7,6 @@ showToc: true
 tocOpen: true
 version: 1.0
 lang: de
-block-headings: true
 ---
 
 Die Modularität unseres Projektes ist ein wichtiger Faktor, damit Lernende verschiedener Stufen am Projekt teilhaben können. 

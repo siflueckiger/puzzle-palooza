@@ -1,8 +1,6 @@
 ---
 title: "Einstiegsgeschichte TG53-2"
-summary: Dies ist die Einstiegsgeschichte für den TG53-2, welche den Spielenden vor Beginn des Spiels vermittelt wird.
-subtitle: Beispiel
-weight: 5
+weight: 6
 draft: false
 ShowReadingTime: true
 showToc: false
@@ -11,7 +9,7 @@ version: 1.0
 lang: de
 ---
 
-### Videolog vom 22. Oktober 2022
+## Videolog vom 22. Oktober 2022
 
 Nachricht an das Traumgenerator-Deaktivierungs-Team:
 
@@ -27,4 +25,6 @@ Viel Glück!
 
 Eure Professorin Reva Songo
 
+---
 
+> Einstiegsgeschichte als Videos: [TG53-1 (deutsch)](https://youtu.be/glFgcpV4FwU) | [TG53-1 (französisch)](https://youtu.be/p-XSlF6UNKs)

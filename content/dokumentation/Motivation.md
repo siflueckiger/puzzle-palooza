@@ -9,7 +9,7 @@ version: 1.0
 lang: de
 ---
 
-### Ein erlebnisreicher und spannender Einstieg in die Welt des Makings
+## Ein erlebnisreicher und spannender Einstieg in die Welt des Makings
 
 Wir entwickeln Maker-Projekte, die als Basis dienen, um mit einer Gruppe von Lernenden in die Welt des Makings einzutauchen. Die ersten Schritte in diesem Bereich sind oft sehr herausfordernd und die Lernkurve steil. Deshalb ist eine gute und enge Betreuung der Lernenden unerlässlich. Der Einstieg erfordert einen beträchtlichen Personalaufwand und spezifisches Fachwissen, was für Lehrkräfte eine hohe Hürde darstellen kann.
 
@@ -19,7 +19,7 @@ Als Abschluss unserer Projekte findet jeweils ein Anlass statt. An diesem werden
 
 Wir stellen hier unser erstes kollaboratives und eventorientiertes Prototyp-Projekt, *Puzzle Palooza*, vor. Für den Prototypen haben wir uns vom Computerspiel [Keep Talking & Nobody Explodes](https://keeptalkinggame.com/) inspirieren lassen.
 
-### Folgende Ziele sind uns in dem Projekt wichtig:
+## Folgende Ziele sind uns in dem Projekt wichtig:
 
 * Kinder und Jugendliche zu befähigen, ihre digitale Welt mitzugestalten
 * Erster Einstieg ins Programmieren schaffen
