@@ -11,7 +11,7 @@ tocOpen: false
 
 Wir sind...
 
-...**Daniel Schmocker**, Molekularbiologe mit langjähriger Erfahrung in Arbeit mit Kindern und Jugendlichen. Arbeitet als Lehrer in Ostermundigen.
+...**Daniel Schmocker**, Molekularbiologe mit langjähriger Erfahrung in der Arbeit mit Kindern und Jugendlichen. Arbeitet als Lehrer in Ostermundigen.
 
 ...**Simon Flückiger**, Sozial- und Medienpädagoge in Ausbildung. Arbeitet als Jugendarbeiter in Zollikofen.
 
