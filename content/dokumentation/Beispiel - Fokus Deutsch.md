@@ -15,7 +15,7 @@ Die Rätsel in *Puzzle Palooza* sind stets in eine Einstiegsgeschichte eingebett
 
 > Beim TG53-2 ist dies zum Beispiel ein verrückt gewordener Traumgenerator, welcher nur noch Albträume für die Menschheit produziert und nun in der Traumwelt deaktiviert werden muss.
 > 
-> *Die ganze Geschichte kannst Du hier lesen: [Einstiegsgeschichte TG53-2](/dokumentation/einstiegsgeschichte_tg53-2)*
+> *Die Geschichte kannst Du hier lesen: [Einstiegsgeschichte TG53-2](/dokumentation/einstiegsgeschichte_tg53-2)*
 
 Die Geschichte, in die das Projekt eingebettet ist, beeinflusst nicht nur die Einstiegsgeschichte, sondern auch verschiedene andere Aspekte des Projekts, bei denen der Fokus auf Deutsch liegt. Dazu gehören unter anderem:
 
