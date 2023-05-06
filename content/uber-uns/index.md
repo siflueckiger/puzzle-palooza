@@ -12,10 +12,10 @@ tocOpen: false
 ![Bild von Daniel und Simon](../../static/images/daniel_simon.png)-->
 
 **Daniel Schmocker**, Molekularbiologe mit langjähriger Erfahrung in der Arbeit mit Kindern und Jugendlichen. Arbeitet als Lehrer in Ostermundigen.
-[E-Mail](daniel.b.schmocker@gmail.com)
+[E-Mail]<daniel.b.schmocker@gmail.com>
 
 **Simon Flückiger**, Sozial- und Medienpädagoge in Ausbildung. Arbeitet als Jugendarbeiter in Zollikofen.
-[E-Mail](si.flueckiger@gmail.com)
+[E-Mail]<si.flueckiger@gmail.com>
 
 Angefangen mit der Produktion von Musikvideos und später durch eigene diverse Makerprojekte für Kunstinstallationen haben wir uns, ganz nach der Philosophie des *Learning by doing* oder eben *Learning by making*, eine Menge Wissen über die digitale Welt autodidaktisch und intrinsisch motiviert angeeignet.
 
